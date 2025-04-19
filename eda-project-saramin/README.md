@@ -20,12 +20,13 @@
 
 ## ⚙️ 기술 스택
 
-| 분류 | 사용 기술 |
-|------|-----------|
-| 크롤링 | Selenium, BeautifulSoup |
-| 데이터 처리 | pandas, numpy |
-| 시각화 | matplotlib |
-| 환경 | Python, Jupyter Notebook |
+| 분류 | 사용 기술 | 배지 |
+|------|-----------|------|
+| **크롤링** | Selenium<br>BeautifulSoup | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)<br>![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white) |
+| **데이터 처리** | pandas<br>numpy | ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)<br>![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) |
+| **시각화** | matplotlib | ![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) |
+| **환경** | Python<br>Jupyter Notebook | ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![Jupyter](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
+
 
 ---
 
