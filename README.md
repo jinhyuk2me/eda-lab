@@ -1,5 +1,5 @@
-# eda-lab
-Personal EDA sandbox for practicing data analysis and visualization.
+# eda-portfolio
+
 
 | Project | Description |
 |---------|-------------|
