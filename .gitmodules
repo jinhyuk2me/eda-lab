@@ -1,9 +1,0 @@
-[submodule "eda-project-cafe"]
-	path = eda-project-cafe
-	url = https://github.com/jinhyuk2me/eda-project-cafe
-[submodule "eda-project-gasstation"]
-	path = eda-project-gasstation
-	url = https://github.com/jinhyuk2me/eda-project-gasstation
-[submodule "eda-project-saramin"]
-	path = eda-project-saramin
-	url = https://github.com/jinhyuk2me/eda-project-saramin
