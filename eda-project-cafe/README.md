@@ -7,7 +7,7 @@
 # 스타벅스 vs 이디야: 입지 전략 비교 분석  
 > **Store Location Analysis Project: Starbucks vs Ediya in Seoul**
 
----
+--- 
 
 ## 🗂️ 프로젝트 개요
 
