@@ -1,8 +1,6 @@
 # eda-lab
 Personal EDA sandbox for practicing data analysis and visualization.
 
----
-
 This repository consolidates multiple EDA projects into a single, organized portfolio.
 
 | Project | Description |
